@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [component/countries](http://github.com/component/countries). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/component-countries`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # countries
 
   An object containing countries keyed by their associated two-letter code.
